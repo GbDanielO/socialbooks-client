@@ -1,0 +1,8 @@
+## ignore ##
+.classpath
+.project
+.settings
+
+## compilado ##
+target/
+
